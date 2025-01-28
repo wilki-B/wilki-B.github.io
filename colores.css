@@ -20,129 +20,18 @@ width: 100%;
     border-radius: 50%;
     top: 300px;
     left: 300px;
-    
-    
-
-    
     box-shadow: -3px -3px 60px white;
-    
     z-index: 10;
-    
     position: absolute;
   
-    
-}
-
-
-#c{background: linear-gradient(red,blue,yellow,orange,grey,blueViolet,violet,green,#1cff15,brown);
-width: 100%;
-height:180px ;
-position: absolute;
-left: 0px;
-top:  0px;
-z-index: 1;
-border-radius: 10%;
-
-}
-
-
-#resividores{
-background:no-repeat;
-width: 100%;
-height:180px ;
-position: absolute;
-left: 0px;
-top: 0px;
-z-index: 1;
-display: flex;
-flex-direction: row;
-
-
   
-    
 }
 
-.divs {
-      width: 100%;
-      height: 100%;
-      border: solid 1px white;
-      position: relative;
-      }
+
+
       
       
       
-#entrega{
-      background: no-repeat;
-      color: white;
-      width: 160px;
-      height: 160px;
-      border-radius: 50%;
-      border: solid 2px white;
-      box-shadow: 0px 0px 50px white;
-      position: absolute;
-      left: 30% ;
-      top:  40%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-    
-#colorFinal{
-background: no-repeat;
-color: white;
-width: 160px;
-height: 29px;
-position: absolute;
-left: 0px;
-top:650px;
-box-shadow: 0px 0px 20px white;
-border-radius: 20%;
-display: flex;
-justify-content: center;
-align-items: center;}
-
-#puntos{
-background: no-repeat;
-color: white;
-width: 120px;
-height: 29px;
-position: absolute;
-left: 165px;
-top:650px;
-box-shadow: 0px 0px 20px white;
-border-radius: 20%;
-display: flex;
-justify-content: center;
-align-items: center;}
-
-
-
-#terminado{
-    background: #868686dc;
-    width: 380px;
-    height: 380px;
-    position: fixed;
-    top: 210px;
-    left: 5px;
-    border-radius: 20%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#meta{
-    background: no-repeat;
-color: white;
-width: 120px;
-height: 29px;
-position: absolute;
-left: 290px;
-top:650px;
-box-shadow: 0px 0px 20px white;
-border-radius: 20%;
-display: flex;
-justify-content: center;
-align-items: center;}
 
 
 
