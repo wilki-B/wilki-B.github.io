@@ -1,8 +1,14 @@
 body {
     background: black;
+    width: 100%;
+    height: 100%;
+}
+html {
+
+width: 100%;
+    height: 100%;
     
 }
-
 
 
 
@@ -33,7 +39,7 @@ width: 100%;
 height:180px ;
 position: absolute;
 left: 0px;
-top: 679px;
+top: 80%;
 z-index: 1;
 border-radius: 10%;
 
