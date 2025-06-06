@@ -2,12 +2,11 @@
   "name": "tu-app",
   "version": "1.0.0",
   "engines": {
-    "node": "18.x",  // Versión específica
-    "npm": "9.x"     // Evita que Render use Bun
+    "node": ">=18.0.0"
   },
+  "main": "servidor.js",
   "scripts": {
-    "start": "node servidor.js",
-    "build": "npm install"
+    "start": "node servidor.js"
   },
   "dependencies": {
     "express": "^5.1.0",
