@@ -2,6 +2,9 @@ const express = require('express');
 const { MongoClient } = require('mongodb');
 const app = express();
 
+const uri = process.env.MONGODB_URI || "mongodb://localhost:27017";
+
+
 // Configuración de MongoDB
 const uri = "mongodb+srv://usuario:contraseña@cluster0.mongodb.net/nombredb?retryWrites=true&w=majority";
 const client = new MongoClient(uri);
