@@ -1,15 +1,14 @@
-{
-  "name": "tu-app",
-  "version": "1.0.0",
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "main": "servidor.js",
-  "scripts": {
-    "start": "node servidor.js"
-  },
-  "dependencies": {
-    "express": "^5.1.0",
-    "mongodb": "^6.6.0"
-  }
-}
+ {
+   "name": "tres",
+    "version": "1.0.0",
+   "main": "servidor.js",
+   "scripts": {                                             "test": "echo \"Error: no test specified\" && exit     1"
+    },
+   "keywords": [],
+   "author": "",
+  "license": "ISC",
+   "description": "",
+    "dependencies": {
+     "express": "^5.1.0"
+    }
+ }
