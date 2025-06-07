@@ -38,7 +38,7 @@ app.post('/enviar', (req,res) => {
 });
 
 
-app.listen(3000, () => {
+app.listen(3000,'0.0.0.0', () => {
 
 
     console.log('escuchando puerto 3000');
